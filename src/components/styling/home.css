@@ -1,0 +1,16 @@
+.home {
+    display: flex;
+    height: 95vh;
+}
+
+.box-left {
+    height: 100%;
+    width: 50%;
+    background-color: aqua;
+}
+
+.box-right {
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+}
