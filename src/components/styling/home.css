@@ -6,11 +6,27 @@
 .box-left {
     height: 100%;
     width: 50%;
-    background-color: aqua;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/www-axa-com-108cce09-998a-4f96-8480-9f773e40a9d3_cover-3-2.jpg");
+}
+
+.box-left p {
+    font-size: 1.4rem;
+    line-height: 2rem;
+    margin: 15px;
+
+  
+}
+
+.second-p {
+    color:rgb(192, 187, 218);
+}
+
+.third-p {
+    color: rgb(149, 149, 203);
 }
 
 .box-right {
     height: 100%;
     width: 50%;
-    background-color: aquamarine;
+    background-color: rgb(139, 149, 183);
 }
