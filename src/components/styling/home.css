@@ -30,3 +30,7 @@
     width: 50%;
     background-color: rgb(139, 149, 183);
 }
+
+.text-box {
+    border-top: 2px solid black;
+}
